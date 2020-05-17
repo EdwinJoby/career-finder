@@ -1,1 +1,1 @@
-# career-finder
+# CareerFinder
